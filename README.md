@@ -1,5 +1,5 @@
 # SEKRAN
-Bilgisayar ekran görüntüsünü kırparak kaydeder
+Python ile bilgisayar ekran görüntüsünü kırparak kaydeder
 
 
 
