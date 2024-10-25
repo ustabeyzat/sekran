@@ -3,5 +3,5 @@ Python ile bilgisayar ekran görüntüsünü kırparak kaydeder
 
 
 
-https://github.com/user-attachments/assets/8f4ae7a6-d19f-4572-8c43-bff96aa1230f
+https://github.com/user-attachments/assets/e9dcadab-5468-4b71-a43a-65811f7d5a61
 
